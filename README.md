@@ -20,11 +20,15 @@ Pour faire mon analyse avec les critères de l’analyse PESTEL, je peux récup�
 * Pour la partie analyse, il m'a demandé de
     
     * tester la classification ascendante hiérarchique, avec un dendrogramme comme visualisation.
-    *utiliser la méthode des k-means, afin d’affiner l’analyse et comparer les résultats des deux méthodes de clustering.
-    *d’analyser les centroïdes des classes. 
-    *réaliser une ACP afin de visualiser les résultats de mon analyse, comprendre les groupes, les liens entre les variables, les liens entre les individus...
-    *un notebook Jupyter ou un fichier R avec mes analyses
-    *une heatmap avec les croisements entre les clusters de pays et les différentes variables
+    * utiliser la méthode des k-means, afin d’affiner l’analyse et comparer les résultats des deux méthodes de clustering.
+    
+    * d’analyser les centroïdes des classes. 
+    
+    * réaliser une ACP afin de visualiser les résultats de mon analyse, comprendre les groupes, les liens entre les variables, les liens entre les individus...
+    
+    * un notebook Jupyter ou un fichier R avec mes analyses
+    
+    * une heatmap avec les croisements entre les clusters de pays et les différentes variables
 * Pendant les analyses j'ai utilisé deux notebook :
     * Un pour nettoyage des données et préparation des data propres.
     * Un pour des analyses qui ont été demandées directement par mon manager. 
